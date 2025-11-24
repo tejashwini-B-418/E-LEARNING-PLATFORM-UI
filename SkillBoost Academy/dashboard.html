@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Dashboard - SkillBoost Academy</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="assests/css/style.css">
+</head>
+
+<body onload="showWelcomeMessage()">
+
+  <nav class="navbar">
+    <div class="container">
+      <h2>SkillBoost Academy</h2>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="courses.html">Courses</a></li>
+        <li><a href="dashboard.html">Dashboard</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="page-wrapper">
+    <h1>Hello Tejashwini 👋</h1>
+    <p>Welcome back to your learning dashboard.</p>
+
+    <p class="progress-label">Your Progress</p>
+    <div class="progress-bar">
+      <div class="progress-fill"></div>
+    </div>
+    <p class="progress-text">50% Completed</p>
+
+    <div class="dashboard-grid">
+      <div class="info-card">
+        <div class="info-title">
+          <div class="info-icon"><i class="fa-solid fa-trophy"></i></div>
+          <span>Completed Courses</span>
+        </div>
+        <ul>
+          <li>HTML & CSS Basics</li>
+        </ul>
+      </div>
+
+      <div class="info-card">
+        <div class="info-title">
+          <div class="info-icon"><i class="fa-solid fa-star"></i></div>
+          <span>Learning Status</span>
+        </div>
+        <p>You are halfway through your current learning plan. Continue one more module to unlock the next level.</p>
+      </div>
+    </div>
+
+    <button class="btn-primary" style="margin-top:25px;" onclick="showCertificateAlert()">View Certificate</button>
+  </div>
+
+  <footer class="footer">
+    © 2025 SkillBoost Academy | Learn. Practice. Grow.
+  </footer>
+
+  <script src="assests/js/script.js"></script>
+</body>
+</html>
