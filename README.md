@@ -23,7 +23,7 @@ The main intention behind the project is to practice and apply front-end develop
 
 # OBJECTIVES:
 
-• To create a multi-page e-learning website using front-end technologies  
+• To create a multi-page e-learning website using front-end technologies 
 • To design a simple and user-friendly interface for learners  
 • To organize course-related content using layouts and cards  
 • To embed a video tutorial within the website  
@@ -34,12 +34,19 @@ The main intention behind the project is to practice and apply front-end develop
 # FEATURES IMPLEMENTED:
 
 • Structured navigation bar on top of every page  
+
 • Home page displaying welcome message and progress preview  
-• Course listing page with six different technology courses  
-• Course details page with embedded learning video and syllabus  
+
+• Course listing page with six different technology courses 
+
+• Course details page with embedded learning video and syllabus 
+
 • Dashboard page containing progress bar and course completion section  
+
 • JavaScript alert feature in dashboard to enhance interaction  
+
 • Clean UI with card-based layout and Font Awesome icons  
+
 • Footer section for page completeness and consistency  
 
 # MODULES DEVELOPED:
@@ -84,5 +91,16 @@ Completing this project strengthened my practical knowledge in front-end develop
 
 # OUTPUT:
 
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/e7fb7e13-98de-4d5b-a498-6eabb9350397" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/7d7134ea-0453-4a32-afb2-6c7a91298fce" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/203e7063-6111-429d-a218-2e3f8301d2cf" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/8206c0f2-ddbe-4524-b06f-bb286f13aa2d" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/18e4a153-66ee-4b8d-af71-e14e4eb5e56f" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/fb860274-caef-4e4f-a6e0-f56ff22f5a5c" />
 
 
